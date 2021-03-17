@@ -33,6 +33,41 @@
         "kategori" => "Jersey Sepakbola"
     ],
     [
+        "gambar" => "Barcelona.jpeg",
+        "nama" => "Jersey Barcelona",
+        "deskripsi" => "Jersey Barcelona home musim 2020/2021",
+        "harga" => "Rp. 400.000",
+        "kategori" => "Jersey Sepakbola"
+    ],
+    [
+        "gambar" => "jaket-mu.jpg",
+        "nama" => "Jacket Manchester United",
+        "deskripsi" => "Jacket manchester United musim 2020/2021",
+        "harga" => "Rp. 350.000",
+        "kategori" => "Jacket Sepakbola"
+    ],
+    [
+        "gambar" => "jaket-juve.jpg",
+        "nama" => "Jacket Juventus",
+        "deskripsi" => "Jacket Juventus musim 2020/2021",
+        "harga" => "Rp. 350.000",
+        "kategori" => "Jacket Sepakbola"
+    ],
+    [
+        "gambar" => "acmilan.jpg",
+        "nama" => "Jersey Ac Milan",
+        "deskripsi" => "Jersey Ac Milan away musim 2020/2021",
+        "harga" => "Rp. 370.000",
+        "kategori" => "Jersey Sepakbola"
+    ],
+    [
+        "gambar" => "jaket-bayern.jpg",
+        "nama" => "Jacket Bayern Munchen",
+        "deskripsi" => "Jacket Bayern Munchen musim 2020/2021",
+        "harga" => "Rp. 400.000",
+        "kategori" => "Jacket Sepakbola"
+    ],
+    [
         "gambar" => "chelsea.jpg",
         "nama" => "Jersey Chelsea",
         "deskripsi" => "Jersey Chelsea home musim 2020/2021",
