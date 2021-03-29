@@ -7,7 +7,7 @@
     [
         "gambar" => "mu.jpg",
         "nama" => "Jersey Manchester united",
-        "deskripsi" => "Jersey Manchester united home musim 2020/2021",
+        "deskripsi" => "Jersey Manchester United home musim 2020/2021",
         "harga" => "Rp. 400.000",
         "kategori" => "Jersey Sepakbola"
     ],
