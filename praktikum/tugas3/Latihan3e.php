@@ -14,7 +14,7 @@
     [
         "gambar" => "liverpool.jpg",
         "nama" => "Jersey Liverpool",
-        "deskripsi" => "jersey Liverpool home musim 2020/2021",
+        "deskripsi" => "Jersey Liverpool home musim 2020/2021",
         "harga" => "Rp. 370.000",
         "kategori" => "Jersey Sepakbola"
     ],
@@ -42,7 +42,7 @@
     [
         "gambar" => "jaket-mu.jpg",
         "nama" => "Jacket Manchester United",
-        "deskripsi" => "Jacket manchester United musim 2020/2021",
+        "deskripsi" => "Jacket Manchester United musim 2020/2021",
         "harga" => "Rp. 350.000",
         "kategori" => "Jacket Sepakbola"
     ],
