@@ -1,0 +1,119 @@
+.container {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: arial;
+    width: 500px;
+}
+
+.luar {
+    background-color: crimson;
+}
+.container1 {
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+}
+.nama {
+    text-decoration: none;
+    color: brown;
+}
+
+.tombol-kembali {
+    text-decoration: none;
+    color: burlywood;
+
+}
+
+.tombol {
+    margin-top: 20px;
+    background: gray;
+}
+
+.background-text {
+    color: antiquewhite;
+    background: #DC143C;
+    border: 1px solid black;
+    font-size:14px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 50px;
+}
+
+.ubah {
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    color: burlywood;
+    background-color: royalblue;
+    border-radius: 50px;
+}
+.ubah:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);;
+}
+
+.hapus {
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    color: burlywood;
+    background-color: red;
+    border-radius: 50px;
+}
+.hapus:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);;
+}
+
+.add {
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    background-color: gold;
+    border-radius: 50px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+.add:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);;
+}
+
+.add a {
+    text-decoration: none;
+    color: brown;
+}
+
+.top {
+    background-color: darkslategray;
+    color: goldenrod;
+}
+
+.isi {
+    background-color: honeydew;
+}
+
+.container2 {
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.up {
+    background: cyan;
+}
