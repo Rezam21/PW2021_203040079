@@ -57,7 +57,7 @@ function ubah($data)
     $harga = htmlspecialchars($data['harga']);
     $kategori = htmlspecialchars($data['kategori']);
 
-    $query = "UPDATE sepakbola2
+    $query = "UPDATE sepakbola
             SET
             gambar = '$gambar',
             nama = '$nama',

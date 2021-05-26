@@ -1,0 +1,507 @@
+.containerA {
+    align-items: center;
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    font-family: arial;
+    width: 500px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+
+.detail {
+    align-items: center;
+    background-image: url("../assets/img/detail.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.luar {
+    background-color: gainsboro;
+    align-items: center;
+}
+.container1 {
+    align-items: center;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    margin: 20px 50px;
+}
+.nama {
+    text-decoration: none;
+    color: brown;
+}
+
+.tombol-kembali {
+    text-decoration: none;
+    color: burlywood;
+
+}
+
+.tombol {
+    margin-top: 20px;
+    background: gray;
+    border-radius: 50px;
+}
+
+.background-text {
+    color: antiquewhite;
+    background: #DC143C;
+    border: 1px solid black;
+    font-size:14px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 50px;
+}
+
+.ubah {
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    color: burlywood;
+    background-color: royalblue;
+    border-radius: 50px;
+}
+.ubah:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.hapus {
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    color: burlywood;
+    background-color: red;
+    border-radius: 50px;
+}
+.hapus:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.add {
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    background-color: gold;
+    border-radius: 50px;
+    width: 100px;
+    margin: 10px 50px;
+}
+.add:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.add a {
+    text-decoration: none;
+    color: brown;
+}
+
+.add2 {
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    background-color: gold;
+    border-radius: 50px;
+    width: 150px;
+    margin: 50px 50px;
+}
+.add2:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.add2 a {
+    text-decoration: none;
+    color: brown;
+}
+
+.top {
+    background-color: darkslategray;
+    color: goldenrod;
+}
+.top th {
+    text-align: center;
+}
+
+.isi {
+    background-color: honeydew;
+}
+
+.isi td {
+    text-align: center;
+}
+
+.container2 {
+    align-items: center;
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.up {
+    text-align: center;
+    margin-left: 10px;
+    background: cyan;
+    border-radius: 50px;
+}
+
+.cari {
+    margin: 10px 50px;
+}
+
+.tabel {
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.logout {
+    text-decoration: none;
+    border: 1px solid #cecece;
+    border-radius: 3px;
+    padding: 3px 10px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    color: black;
+    background-color: gold;
+    border-radius: 50px;
+    width: 70px;
+    margin: 50px;
+    margin-left: 700px;
+}
+
+.logout a {
+    color: red;
+}
+
+.container3 {
+    align-items: center;
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 100%;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.para h1 {
+    text-shadow: 1px 1px 3px maroon;
+}
+
+.parallax-container {
+    height: 500px;
+}
+
+.parallax img {
+    opacity: 0.5 !important;
+}
+
+footer {
+    padding: 30px 0;
+}
+
+.containerindex {
+    align-items: center;
+    background-color: white;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 500px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 510px;
+}
+
+.umat {
+    align-items: center;
+    text-align: center;
+
+}
+
+.tulisnav {
+    margin-left: 20px;
+}
+
+.container2index {
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    margin: 20px 50px;
+}
+
+.isiindex {
+    text-align: center;
+}
+
+.containerlogin {
+    text-align: center;
+    align-items: center;
+    backdrop-filter: blur(5px);
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    border-radius: 50px;
+    margin-top: 190px;
+    margin-left: 570px;
+}
+
+.login {
+    align-items: center;
+    background-image: url("../assets/img/login.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.containerregistrasi {
+    text-align: center;
+    align-items: center;
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    height: 250px;
+    border-radius: 50px;
+    margin-top: 220px;
+    margin-left: 570px;
+}
+
+.containertambah {
+    text-align: center;
+    align-items: center;
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-left: 580px;
+}
+
+.containertambah h3 {
+    text-align: center;
+}
+
+.katatambah {
+    margin-left: 5px;
+    list-style: none;
+}
+
+.katatambah input {
+    border-radius: 30px;
+    width: 200px;
+    height: 25px;
+}
+
+.tambahall {
+    align-items: center;
+    background-image: url("../assets/img/tambah.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.containerubah {
+    text-align: center;
+    align-items: center;
+    background-color: cornsilk;
+    border: 2px solid black;
+    padding: 15px;
+    text-align: left;
+    font-family: arial;
+    width: 300px;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-left: 580px;
+}
+
+.containerubah h3 {
+    text-align: center;
+}
+
+.kataubah {
+    margin-left: 5px;
+    list-style: none;
+}
+
+.kataubah input {
+    border-radius: 30px;
+    width: 200px;
+    height: 25px;
+}
+
+.ubahall {
+    align-items: center;
+    background-image: url("../assets/img/ubah.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.judul {
+    text-align: center;
+    color: darkslateblue;
+}
+
+.tombol2 {
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 20px;
+    background: gray;
+    border-radius: 50px;
+}
+
+.butlogin {
+    border-radius: 30px;
+    text-align: center;
+    width: 70px;
+    height: 30px;
+    margin: 10px 110px;
+    border: 1px solid #cecece;
+    padding: 3px 10px;
+    color: indianred;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    background-color: greenyellow;
+}
+
+.butlogin:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.registrasi {
+    margin-left: 20px;
+}
+
+.remember {
+    margin-left: 20px;
+}
+
+.user {
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 30px;
+    height: 35px;
+}
+
+.pass {
+    text-align: center;
+    margin-left: 5px;
+    border-radius: 30px;
+    height: 35px;
+}
+
+.butregister {
+    border-radius: 30px;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    margin: 10px 90px;
+    border: 1px solid #cecece;
+    padding: 3px 10px;
+    color: indianred;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);
+    background-color: greenyellow;
+}
+
+.butregister:hover {
+    border: 1px solid #b1b1b1;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+
+.judullog h2 {
+    text-align: center;
+    color: darkturquoise;
+}
+
+.userall {
+    margin-left: 20px;
+}
+
+.passall {
+    margin-left: 20px;
+}
+
+
+
+@media (max-width: 800px) {
+    .containerindex {
+        margin-left: 140px;
+    }
+
+    .containerA {
+        margin-left: 110px;
+    }
+
+    .detail {
+        background-size: 800px 850px;
+    }
+
+    .containerlogin {
+        margin-left: 220px;
+    }
+
+    .login {
+        background-size: 800px 1000px;
+    }
+
+    .containerregistrasi {
+        margin-left: 220px;
+    }
+
+    .containertambah {
+        margin-left: 220px;
+    }
+
+    .tambahall {
+        background-size: 800px 900px;
+    }
+
+    .containerubah {
+        margin-left: 220px;
+    }
+
+    .ubahall {
+        background-size: 800px 900px;
+    }
+
+    .logout {
+        margin-left: 350px;
+    }
+}
